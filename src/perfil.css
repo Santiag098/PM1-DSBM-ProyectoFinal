@@ -1,8 +1,16 @@
 .divbox1{
     border: 2px solid black;
     margin-top: 20px;
+    height: 1500px;
 }
 
-.tx1{
-    margin-top: 20px;
+.divbox5{
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    margin-top: 60px;
+}
+
+.carousel{
+    margin-left: 80px;
 }
