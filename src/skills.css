@@ -1,0 +1,118 @@
+.divbox3{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card2{
+    width: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    border-radius: 5px;
+    margin-left: 35px;
+}
+.card2:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    transform: scale(1.2);
+
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.p{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px 5px 0 0;
+}
+
+.barra-progreso {
+    width: 120px;
+    height: 13px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    background-color: #e0e0e0;
+}
+.progreso {
+    height: 100%;
+    width: 50%; /* Cambiar este valor para ajustar el progreso */
+    transition-duration: 0.5s;
+}
+.barra-progreso:hover .progreso{
+    width: 50%;
+    transition-duration: 0.5s;
+    background-color: #4442b4;
+}
+
+.barra-progreso1 {
+    width: 120px;
+    height: 13px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    background-color: #e0e0e0;
+}
+.progreso1 {
+    height: 100%;
+    width: 40%; /* Cambiar este valor para ajustar el progreso */
+    transition-duration: 0.5s;
+}
+.barra-progreso1:hover .progreso1{
+    width: 40%;
+    transition-duration: 0.5s;
+    background-color: #cfcd44;
+}
+
+
+.barra-progreso2 {
+    width: 120px;
+    height: 13px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    background-color: #e0e0e0;
+}
+.progreso2 {
+    height: 100%;
+    width: 60%; /* Cambiar este valor para ajustar el progreso */
+    transition-duration: 0.5s;
+}
+.barra-progreso2:hover .progreso2{
+    width: 60%;
+    transition-duration: 0.5s;
+    background-color: #b3b3b3;
+}
+
+.barra-progreso3 {
+    width: 120px;
+    height: 13px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    background-color: #e0e0e0;
+}
+.progreso3 {
+    height: 100%;
+    width: 80%; /* Cambiar este valor para ajustar el progreso */
+    transition-duration: 0.5s;
+}
+.barra-progreso3:hover .progreso3{
+    width: 80%;
+    transition-duration: 0.5s;
+    background-color: #f18b50;
+}
+
+.barra-progreso4 {
+    width: 120px;
+    height: 13px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    background-color: #e0e0e0;
+}
+.progreso4 {
+    height: 100%;
+    width: 70%; /* Cambiar este valor para ajustar el progreso */
+    transition-duration: 0.5s;
+}
+.barra-progreso4:hover .progreso4{
+    width: 70%;
+    transition-duration: 0.5s;
+    background-color: #ca2929;
+}

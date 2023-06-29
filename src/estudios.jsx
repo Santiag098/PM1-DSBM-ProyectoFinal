@@ -47,8 +47,14 @@ export const Study = () => {
                         <p class="card-text">Culminado Junio, 2019</p>
                     </div>
                 </div>
+                <div class="card text-dark border-dark mb-3">
+                    <div class="card-header"><b>Caja de herramientas</b></div>
+                    <div class="card-body">
+                        <h5 class="card-title">Corporación de Educación Tecnológica Colsubsidio</h5>
+                        <p class="card-text">Culminado Septiembre, 2019</p>
+                    </div>
+                </div>
             </div>
-
         </div>
     )
 }

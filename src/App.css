@@ -65,12 +65,9 @@ img{
   height: 300px;
 }
 
-.cont1{
-  flex: 1;
-  
-}
+
 .cont2{
-  flex: 1;
+  margin-left: 60px;
   
 }
 
@@ -82,8 +79,22 @@ nav{
 nav div{
   font-size: 20px;
 }
-
+´nav div a{
+  text-decoration: none;
+}
 .foot{
   background-color: #808080;
   margin-top: 20px;
+  height: 30px;
+}
+.foot h6{
+  line-height: 30px;
+}
+.yo{
+  transition-duration: 0.5s;
+}
+.yo:hover{
+  border-radius: 10px;
+  transform: scale(1.2);
+  transition-duration: 0.5s;
 }

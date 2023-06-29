@@ -1,0 +1,18 @@
+
+.ok{
+    width: 500px;
+    height: 200px;
+    
+    margin-top: 30px;
+    transition-duration: 0.5s;
+}
+
+.ok:hover{
+    transition-duration: 0.5s;
+    transform: scale(1.2);
+}
+.rar{
+    border: 2px sold black;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}

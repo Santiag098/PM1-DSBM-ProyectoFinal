@@ -1,0 +1,28 @@
+.divbox1{
+    
+}
+.cont{
+    border: 2px solid black;
+    width: 400px;
+    height: 200px;
+    margin-left: 400px;
+    margin-bottom: 30px;
+}
+
+.tel{
+    width: 15px;
+    height: 15px;
+    margin-top: 7px;
+    margin-right: 5px;
+}
+
+.fx{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+div h6 a{
+    text-decoration: none;
+    color: black;
+}
