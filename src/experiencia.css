@@ -1,0 +1,33 @@
+.divbox4{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card3{
+    width: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    border-radius: 5px;
+    margin-left: 150px;
+    
+}
+
+.card3:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    transform: scale(1.2);
+    background-color: rgb(216, 215, 215);
+    transition-duration: background-color 0.8s ease;
+}
+
+.container1{
+    padding: 2px 16px;
+    margin-top: 5px;
+    
+}
+
+.p1{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px 5px 1px 1px;
+}

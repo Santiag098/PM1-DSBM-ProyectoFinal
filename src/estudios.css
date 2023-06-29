@@ -22,7 +22,7 @@ div .card{
 
 .card:hover{
     
-    background-color: lightgray;
+    background-color: lightblue;
     transition-duration: 0.5s;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
     
