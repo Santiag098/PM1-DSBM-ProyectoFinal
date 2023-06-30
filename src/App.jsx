@@ -38,7 +38,7 @@ function App() {
                             <li class="nav-item"><Link to="/estud" ><a className="nav-link" href="#"><b>Estudios</b></a></Link></li>
                             <li class="nav-item"><Link to="/skill" ><a className="nav-link" href="#"><b>Skills</b></a></Link></li>
                             <li class="nav-item"><Link to="/xp" ><a class="nav-link" href="#"><b>Experiencia</b></a></Link></li>
-                            <li class="nav-item"><Link to="/cont"><a class="nav-link" href="contact.html"><b>Contacto</b></a></Link></li>
+                            <li class="nav-item"><Link to="/cont"><a class="nav-link" href="#"><b>Contacto</b></a></Link></li>
                         </ul>
                     </div>
                 </div>
