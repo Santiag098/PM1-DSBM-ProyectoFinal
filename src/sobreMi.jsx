@@ -12,7 +12,9 @@ export const SobreMi = () => {
             
             <div className="rar">
             <img className='ok' src="/src/assets/klipartz.com.png" alt="" />
-                <h3>Soy una persona humilde, trabajadora, <br />caracterizada por tener disposición <br />a nuevos aprendizajes, <br />buen trabajo en equipo, pensamiento lgico,<br />con capacidad de trabajar bajo presión.</h3>
+            <div className="box">
+                <h3>Busco oportunidades que me permitan continuar creciendo como desarrollador de software, enfrentando desafíos tecnológicos y contribuyendo al desarrollo de soluciones innovadoras. Aspiro a participar en proyectos que tengan un impacto significativo, tanto a nivel empresarial como en la vida de las personas.</h3>
+            </div>
             </div>
         </div>
     )

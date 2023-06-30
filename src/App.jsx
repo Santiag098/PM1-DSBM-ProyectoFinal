@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import './perfil.css'
+import 'bootstrap/dist/css/bootstrap.css';
 import { Route, Routes, Link} from 'react-router-dom'
 import { Inicio } from './perfil'
 import { Study } from './estudios'

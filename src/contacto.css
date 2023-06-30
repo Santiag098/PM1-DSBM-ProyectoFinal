@@ -1,10 +1,19 @@
 
 .cont{
     border: 2px solid black;
-    width: 400px;
-    height: 200px;
-    margin-left: 400px;
-    margin-bottom: 30px;
+    width: 600px;
+    height: 300px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    transition-duration: 0.5s;
+    
+}
+
+.cont:hover{
+    transform: scale(1.2);
+    border-radius: 5px;
+    transition-duration: 0.5s;
 }
 
 .tel{
@@ -23,4 +32,8 @@
 div h6 a{
     text-decoration: none;
     color: black;
+}
+
+.tt{
+    font-size: 30px;
 }
