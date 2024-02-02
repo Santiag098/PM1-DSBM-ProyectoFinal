@@ -52,7 +52,7 @@ function App() {
             <Route exact path="/cont" element={<Contact/>}/>
           </Routes>
         <footer className='foot'>
-          <h6>Copyright &#169; 2023 Santiago Bautista</h6>
+          <h6>Copyright &#169; 2023 Derechos reservados</h6>
         </footer>
       </body>
     

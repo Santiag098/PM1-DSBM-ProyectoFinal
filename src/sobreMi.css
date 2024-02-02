@@ -6,14 +6,17 @@
     transition-duration: 0.5s;
 }
 
-.ok:hover{
+.box:hover{
     transition-duration: 0.5s;
     transform: scale(1.2);
+    border-radius: 5px;
+    background-color: rgb(216, 215, 215);
+    transition-duration: background-color 0.8s ease;
 }
 .rar{
     border: 2px sold black;
-    margin-left: 40px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .box{
@@ -24,4 +27,5 @@
     justify-content: center;
     align-items: center;
     margin: 0 auto;
+    transition-duration: 0.5s;
 }

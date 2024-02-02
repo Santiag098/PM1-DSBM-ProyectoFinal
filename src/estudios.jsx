@@ -36,7 +36,7 @@ export const Study = () => {
                 <div class="card text-dark border-dark mb-3">
                     <div class="card-header"><b>Empalme por fusión de fibra óptica e instalación de fibra</b></div>
                     <div class="card-body">
-                        <h5 class="card-title">Instituto Superior de Educacion Rural (ISER)</h5>
+                        <h5 class="card-title">ISER</h5>
                         <p class="card-text">Culminado Julio, 2022</p>
                     </div>
                 </div>
