@@ -9,6 +9,7 @@ export const Contact = () => {
     return (
         <div className='divbox1'>
             <h1 className='tx1'>Contacto</h1>
+            <div className="divbox5">
             <div className="cont">
                 <div className='fx'><img className='tel' src="/src/assets/telefono.png" alt="" /> <h5 className='tt'><b>Telefono:</b></h5></div>
                 <h6 className='tt'><a href="https://wa.link/o1bh9o" target='_blank'>+57 3107830288</a></h6>
@@ -17,6 +18,8 @@ export const Contact = () => {
                 <div className='fx'><img className='tel' src="/src/assets/verificar.png" alt="" /> <h5 className='tt'><b>Redes Sociales:</b></h5></div>
                 <h6 className='tt'><a href="https://taplink.cc/santiisco_17" target='_blank'>Enlace</a></h6>
             </div>
+            </div>
+            
             
         </div>
     )

@@ -1,13 +1,14 @@
-.divbox1{
-    height: 480px;
+.divbox5{
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .cont{
     display: block;
     border: 2px solid black;
     width: 500px;
-    height: 300px;
+    height: 270px;
     margin: 0 auto;
-    margin-top: 50px;
+    
     transition-duration: 0.5s;
     
 }

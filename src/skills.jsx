@@ -56,7 +56,6 @@ export const Atrib = () => {
                     </div>
                 </div>
             </div>
-            
         </div>
     )
 }
