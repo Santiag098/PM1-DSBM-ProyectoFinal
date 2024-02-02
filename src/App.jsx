@@ -22,7 +22,7 @@ function App() {
         </header>
         <section className='containerr'>
           <div className='cont1'>
-              <img className='yo' src="/src/assets/yopack.jpg" alt="miyo" />
+              <img className='yo' src="/src/assets/fotoperfil.jpg" alt="miyo" />
           </div>
           <div className='cont2'>
               <h2>Dylan Santiago Bautista Mantilla <br /> <h5>Tecnólogo en Gestión de Redes y Sistemas Teleinformáticos</h5> </h2>
@@ -30,8 +30,7 @@ function App() {
         </section>
         <nav class="navbar navbar-expand-lg navbar-light bg-white py-3">
                 <div class="container px-5">
-                    <a class="navbar-brand" href="index.html"><span class="fw-bolder text-dark"><Link to="/about">Sobre mi</Link></span></a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <a class="navbar-brand" href="/about"><span class="fw-bolder text-dark"><b>Sobre mi</b></span></a>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
                             <li class="nav-item"><Link to="/inicio" ><a className="nav-link" href="#"><b>Perfil</b></a></Link></li>
@@ -41,6 +40,7 @@ function App() {
                             <li class="nav-item"><Link to="/cont"><a class="nav-link" href="#"><b>Contacto</b></a></Link></li>
                         </ul>
                     </div>
+                    <div className="overlay"></div>
                 </div>
         </nav>
           <Routes>

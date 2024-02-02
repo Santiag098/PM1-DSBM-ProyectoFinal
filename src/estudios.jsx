@@ -20,8 +20,8 @@ export const Study = () => {
                 <div class="card text-dark border-dark mb-3">
                     <div class="card-header"><b>Tecnologia en Gestión de Redes y Sistemas Teleinformáticos</b></div>
                     <div class="card-body">
-                        <h5 class="card-title">Instituto Superior de Educacion Rural (ISER)</h5>
-                        <p class="card-text">Culminando.</p>
+                        <h5 class="card-title">ISER</h5>
+                        <p class="card-text">Culminado Diciembre, 2023.</p>
                     </div>
                 </div>
                 <div class="card text-dark border-dark mb-3">

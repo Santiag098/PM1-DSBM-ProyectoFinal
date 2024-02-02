@@ -9,7 +9,6 @@ export const SobreMi = () => {
     return (
         <div className='divbox1'>
             <h1>Sobre Mi</h1>
-            
             <div className="rar">
             <img className='ok' src="/src/assets/klipartz.com.png" alt="" />
             <div className="box">

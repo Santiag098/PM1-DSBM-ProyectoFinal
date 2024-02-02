@@ -1,25 +1,30 @@
-
+.divbox1{
+    height: 480px;
+}
 .cont{
+    display: block;
     border: 2px solid black;
-    width: 600px;
+    width: 500px;
     height: 300px;
-    margin-left: 300px;
+    margin: 0 auto;
     margin-top: 50px;
-    margin-bottom: 50px;
     transition-duration: 0.5s;
     
 }
+
 
 .cont:hover{
     transform: scale(1.2);
     border-radius: 5px;
     transition-duration: 0.5s;
+    background-color: rgb(216, 215, 215);
+    transition-duration: background-color 0.8s ease;
 }
 
 .tel{
     width: 15px;
     height: 15px;
-    margin-top: 7px;
+    margin-top: 12px;
     margin-right: 5px;
 }
 
